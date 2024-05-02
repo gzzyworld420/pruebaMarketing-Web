@@ -12734,7 +12734,7 @@ img {
 }
 
 @media only screen and (max-width: 767px) {
-  img {
+  .imgFooter{
     height: 100%;
   }
 }
