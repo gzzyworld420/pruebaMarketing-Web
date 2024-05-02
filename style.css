@@ -12733,6 +12733,12 @@ img {
   max-width: 100%;
 }
 
+@media only screen and (max-width: 767px) {
+  img {
+    height: 100%;
+  }
+}
+
 iframe {
   width: 100%;
   border: 0 !important;
